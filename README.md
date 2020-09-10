@@ -17,11 +17,11 @@ Today we are going to practice setting up Bootstrap on a webpage and adding card
   - Search 'cards' on the Bootstrap website or [open this link](). 
   - Pick the card you want to use
   - Copy and paste the **entire** code between the `<body>` and `</body>` tags
-  - This gif shows you the steps as well!
+  - This gif shows you the steps as well!  
   ![](https://media.giphy.com/media/WqAQl9ezddbkDTXD2h/giphy.gif)
 5. **STRETCH - ADDING A NAVIGATION BAR**: If you were able to do steps 1 - 4, try adding a navigation bar! Navigation bars are incredably powerful tools to create organization and structure on your webpage. To make a card you can:
   - Search 'navbar' on Bootstrap.
   - Pick the navbar you want 
   - Copy and paste the **entire** code between the `<body>` and `</body>` tags 
-  - This gif shows you the steps as well!
+  - This gif shows you the steps as well!  
   ![](https://media.giphy.com/media/Xy7BMO5Yfubc3pRBms/giphy.gif)
