@@ -14,9 +14,11 @@ Today we are going to practice setting up Bootstrap on a webpage and adding card
 2. Scroll down to the header that says CSS. Copy and paste the style tag **into the head** of your index.html file (and any other HTML file you want to use Bootstrap on). If you did this correct, you'll see the font has changed.  
 
 ![](https://media.giphy.com/media/Tf3l7Dn3RPW2tEAJvN/giphy.gif)
+
 3. Scroll down to the JS header. Copy and paste the three script tags **at the end of the body before the `</body>` tag**.
 
 ![](https://media.giphy.com/media/kC9CmwgKpFI1XsfpGu/giphy.gif)
+
 4. **ADDING A CARD**: Now that have Bootstrap connected, we are going to add a card to our page. Cards are great because they are predefined containers that help to neatly organize information on our webpage. Websites love to use these (Pintrist is basically *exclusively* cards). To make a card you can:  
   - Search 'cards' on the Bootstrap website or [open this link](). 
   - Pick the card you want to use
@@ -24,6 +26,7 @@ Today we are going to practice setting up Bootstrap on a webpage and adding card
   - This gif shows you the steps as well!
 
   ![](https://media.giphy.com/media/WqAQl9ezddbkDTXD2h/giphy.gif)
+
 5. **ADDING MORE CARDS**: Add  ***at least*** 5 cards with images and information about your favorite things. This can be anything that you find interesting (activities, artists, songs, food, etc.). Make sure the cards contain an image, title, and some backgroudn information about the item.
 6. **STRETCH - ADDING A NAVIGATION BAR**: If you were able to do steps 1 - 4, try adding a navigation bar! Navigation bars are incredably powerful tools to create organization and structure on your webpage. To make a card you can:
   - Search 'navbar' on Bootstrap.
